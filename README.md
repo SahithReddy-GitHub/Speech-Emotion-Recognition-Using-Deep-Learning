@@ -15,5 +15,5 @@ Detection of human emotions through voice-pattern and speech-pattern analysis ha
 
 RAVDESS DATASET DRIVE LINK  ==>  https://drive.google.com/drive/folders/1-_B_P2E-B-KkESRJvGc5azTHijDzaldb?usp=sharing
 
-GOOGLE COLAB LINK  ==>  
+
 
